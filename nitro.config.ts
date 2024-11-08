@@ -36,7 +36,7 @@ export default defineNitroConfig({
             framework: "nitro",
             adapterVersion: "0.0.0",
             adapterPackageName: nitroPkg.name,
-            frameworkVersion: nitroPkg.version,
+            frameworkVersion: "nightly",
           },
         } satisfies OutputBundleConfig),
       );
