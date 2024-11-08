@@ -30,7 +30,7 @@ export default defineNitroConfig({
         stringifyYAML({
           version: "v1",
           runConfig: {
-            runCommand: "node /.output/server/index.mjs",
+            runCommand: "node .output/server/index.mjs",
           },
           metadata: {
             framework: "nitro",
