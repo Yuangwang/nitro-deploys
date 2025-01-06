@@ -21,7 +21,7 @@ importers:
         specifier: '*'
         version: 1.13.0
       jiti:
-        specifier: ^2.3.3
+        specifier: ^2.4.0
         version: 2.4.2
       nitropack:
         specifier: npm:nitropack-nightly@latest
